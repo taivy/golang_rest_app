@@ -2,8 +2,6 @@
 
 This app is based on [HighLoad Cup 2017 Task](https://github.com/MailRuChamps/hlcupdocs/blob/master/2017/TECHNICAL_TASK.md) (but the app isn't focused on highload)
 
-But the app isn't focused on highload
-
 It's a REST golang app that works with database.
 
 ORM library: gorm
