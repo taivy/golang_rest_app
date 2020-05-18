@@ -5,6 +5,7 @@ This app is based on [HighLoad Cup 2017 Task](https://github.com/MailRuChamps/hl
 It's a REST golang app that works with database.
 
 ORM library: gorm
+
 HTTP router: mux
 
 Used database is SQLite, but it can be easy substituted for another type of database with which GORM can work. 
